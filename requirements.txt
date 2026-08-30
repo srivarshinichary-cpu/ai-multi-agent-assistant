@@ -1,0 +1,8 @@
+langchain
+langgraph
+langchain-openai
+python-dotenv
+fastapi
+uvicorn
+pytest
+langchain-google-genai
